@@ -2512,8 +2512,8 @@ body.dark footer.footer {
 }
 
 .skill-icon img {
-  width: 60px !important;
-  height: 60px !important;
+  width: 40px !important;
+  height: 40px !important;
 }
 
 .skill-icon .details {
@@ -2543,4 +2543,15 @@ body.dark footer.footer {
 
 .skill-set-cloud .software {
   background: #353353 !important;
+}
+
+.beinghussain {
+  font-size: 30px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700 !important;
+  color: #353353;
+}
+
+.hussain {
+  color: #ff4c60;
 }
